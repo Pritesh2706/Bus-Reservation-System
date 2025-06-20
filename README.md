@@ -24,7 +24,7 @@ This project simplifies bus ticket booking by centralizing the process online. B
 🛠️ Technology Stack
 
 - **Backend:** Django, SQLite
-- **Frontend:** HTML, CSS, Bootstrap
+- **Frontend:** HTML, CSS
 - **Language:** Python
 - **Authentication:** Django’s built-in auth
 
@@ -32,7 +32,7 @@ This project simplifies bus ticket booking by centralizing the process online. B
 
 - **Models:** Users, Buses, Bookings
 - **Views:** Display pages and forms
-- **Templates:** HTML with Bootstrap
+- **Templates:** HTML 
 
 📊 Database Design
 
